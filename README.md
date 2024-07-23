@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
 - 👋 Hi, I’m @ShahidYasin03
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning DSA using C++, HTML, CSS, JavaScript
