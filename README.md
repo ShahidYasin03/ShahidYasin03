@@ -17,7 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=""mailto:shahidyasin1st@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="shahid_yasin" height="30" width="40" /></a>
+<a href="mailto:shahidyasin1st@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;">
+</a>
+
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidyasin03&show_icons=true&locale=en&layout=compact" alt="shahidyasin03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidyasin03&show_icons=true&locale=en" alt="shahidyasin03" /></p>
