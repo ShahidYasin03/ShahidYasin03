@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/shahid_yasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahid_yasin" height="30" width="40" /></a>
+<a href="shahidyasin1st@gmail.com" target="blank"></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidyasin03&show_icons=true&locale=en&layout=compact" alt="shahidyasin03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidyasin03&show_icons=true&locale=en" alt="shahidyasin03" /></p>
