@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Dev Projects**
 
-- 🤝 I’m looking for help with **DSA and Web Dev**
+- 🤝 I’m looking for help with **DSA and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahidYasin03](https://github.com/ShahidYasin03)
 
