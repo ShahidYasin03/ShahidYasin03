@@ -35,7 +35,7 @@
 
 
 <div id="header" align="center">
-  <h1>Ateeq Rana - Full Stack Developer</h1>
+  <h1>Shahid Yasin - Full Stack Developer</h1>
     <div>
     <img src="/artealblue-cropped.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
       
@@ -81,7 +81,7 @@
   <li> ✨ Bachelor's of Science in Computer Science (Silver Medalist).</li>
   <li> 👨🏻‍💻 Full Stack Developer.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently developing full stack web applications with TypeScript/JavaScript.</li>
+  <li> 🔭 Currently developing full stack web applications with JavaScript.</li>
 </ul>
 
 ### ⚙️ Tools & Technologies :
@@ -128,31 +128,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp;
 </div>-->
 
-### ⚒️ Hire Me for Web Development Services :
-
-<div>
-<a href="https://www.upwork.com/freelancers/ateeqrana7" rel="nofollow">
-  <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Badge"/>
-</a>
-<a href="https://www.fiverr.com/ateeq_rana7" rel="nofollow">
-  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Badge"/>
-</a>
-</div>
-
-### 🔥 My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=AteeqRana7&theme=onestar&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<!--![AteeqRana7's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=AteeqRana7&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_rank=true)-->
-
-<!--[![AteeqRana7's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AteeqRana7&theme=vue-dark)](https://git.io/streak-stats)-->
-
-[![AteeqRana7's wakatime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=AteeqRana7&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![AteeqRana7's Top Languages](https://github-readme-stats-orcin-pi-41.vercel.app/api/top-langs/?username=AteeqRana7&langs_count=10&theme=vue-dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--[![Ateeq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AteeqRana7&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
-<!--<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=AR&textBg=true&fontAlignY=59&section=footer&fontSize=50&fontColor=2d4263&stroke=ffff&strokeWidth=1"/>
-</p>-->
