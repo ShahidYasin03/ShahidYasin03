@@ -53,16 +53,16 @@
 <a href="mailto:shahidyasin1st@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;">
 </a>
-
 </p>
+
+### ⚙️ Tools & Technologies :
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidyasin03&show_icons=true&locale=en&layout=compact" alt="shahidyasin03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidyasin03&show_icons=true&locale=en" alt="shahidyasin03" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidyasin03&" alt="shahidyasin03" /></p>
 
-
-### ⚙️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
 <!--<div>
   <p>Languages</p>
