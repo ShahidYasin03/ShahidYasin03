@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Shahid Yasin - Full Stack Developer</h1>
     <div>
-    <img src="/artealblue-cropped.png" alt="Ateeq Rana Logo" width='100px'height='100px'/>
+    <img src="/artealblue-cropped.png" alt="ShahidLogo" width='100px'height='100px'/>
       
   </div>
 
@@ -10,19 +10,16 @@
   </div>
     <br/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ateeqrana/">
+  <a href="https://www.linkedin.com/in/shahid-yasin-a161752a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/13228534/ateeq-rana">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/ateeq_rana7">
+  <a href="https://www.hackerrank.com/profile/shahidyasin1st">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
-  <a href="https://leetcode.com/AteeqRana7/">
+  <a href="https://leetcode.com/u/Shahid_Yasin/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/AteeqRana7">
+  <a href="https://www.codewars.com/users/Shahid_Yasin">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="GitLab Badge"/>
   </a>
   </div>
@@ -32,7 +29,7 @@
   </div>
   <br>
   <div>
-   <a href="https://ateeqrana.live/">
+   <a href="###">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Website Badge"/>
   </a>
   </div>
@@ -42,10 +39,10 @@
 ### 👨‍💻 About Me :
 
 <ul>
-  <li> ✨ Bachelor's of Science in Computer Science (Silver Medalist).</li>
+  <li> ✨3rd Year Bachelor's of Science in Computer Science.</li>
   <li> 👨🏻‍💻 Full Stack Developer.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
-  <li> 🔭 Currently developing full stack web applications with JavaScript.</li>
+  <li> 🔭 Currently developing full stack web applications with JavaScript and Python Backend.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
