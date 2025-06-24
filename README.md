@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Shahid Yasin - Full Stack Developer</h1>
     <div>
-    <img src="/artealblue-cropped.png" alt="ShahidLogo" width='100px'height='100px'/>
+    <img src="https://github.com/ShahidYasin03/ShahidYasin03/blob/main/ShahidLogo.png" alt="ShahidLogo" width='100px'height='100px'/>
       
   </div>
 
