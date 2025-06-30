@@ -46,7 +46,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:30px;height:30px;">
 </a>
 </p>
-
+  
 ### ⚙️ Tools & Technologies :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
