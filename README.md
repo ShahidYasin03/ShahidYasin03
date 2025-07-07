@@ -32,7 +32,7 @@
 </div>
 
 ### 👨‍💻 About Me :
-
+  
 <ul>
   <li> ✨3rd Year Bachelor's of Science in Computer Science.</li>
   <li> 👨🏻‍💻 Full Stack Developer.</li>
