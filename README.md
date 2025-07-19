@@ -3,7 +3,7 @@
     <div>
     <img src="https://github.com/ShahidYasin03/ShahidYasin03/blob/main/ShahidLogo1.png" alt="ShahidLogo" width='100px'height='100px'/>
     </div>
-
+ 
   <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FD1C5&center=true&vCenter=true&width=435&lines=I+build+things+for+fun;I'm+a+Full+Stack+Developer;I'm+a+Web+Developer" alt="Typing SVG" /></a>
   </div>
