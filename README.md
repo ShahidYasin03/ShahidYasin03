@@ -48,7 +48,7 @@
 </p>
   
 ### ⚙️ Tools & Technologies :
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,firebase,gcp,sequelize,materialui,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,sequelize,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidyasin03&show_icons=true&locale=en&layout=compact" alt="shahidyasin03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidyasin03&show_icons=true&locale=en" alt="shahidyasin03" /></p>
