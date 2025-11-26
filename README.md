@@ -34,7 +34,7 @@
 ### 👨‍💻 About Me :
   
 <ul>
-  <li> ✨3rd Year Bachelor's of Science in Computer Science.</li>
+  <li> ✨Final Year Bachelor's of Science in Computer Science.</li>
   <li> 👨🏻‍💻 Full Stack Developer.</li>
   <li> 🌱 A Web Development Enthusiast.</li>
   <li> 🔭 Currently developing full stack web applications with JavaScript and Python Backend.</li>
@@ -47,14 +47,14 @@
 </a>
 </p>
   
-### ⚙️ Tools & Technologies :
+<!-- ### ⚙️ Tools & Technologies :
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,nest,apollo,graphql,mongodb,postgres,sequelize,sass,git,postman,vite,vscode,netlify,figma,&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidyasin03&show_icons=true&locale=en&layout=compact" alt="shahidyasin03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidyasin03&show_icons=true&locale=en" alt="shahidyasin03" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidyasin03&" alt="shahidyasin03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidyasin03&" alt="shahidyasin03" /></p> -->
 
 
 <!--<div>
