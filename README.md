@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/shahid-yasin-a161752a8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/shahidyasin1st">
+  <a href="https://www.hackerrank.com/profile/shahidyasin03">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://leetcode.com/u/ShahidYasin03/">
