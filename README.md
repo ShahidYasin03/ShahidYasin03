@@ -51,10 +51,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <p>
+  <!-- <p>
     <img height="185" src="https://github-readme-stats.vercel.app/api?username=ShahidYasin03&show_icons=true&theme=dark&locale=en" alt="Shahid Yasin's GitHub Stats" />
     <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahidYasin03&layout=compact&theme=dark&locale=en" alt="Top Languages" />
-  </p>
+  </p> -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahidYasin03&theme=dark" alt="Streak Stats" />
   </p>
